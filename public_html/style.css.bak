@@ -1,0 +1,26 @@
+h1 {text-align:center; color:#0000FF; font-family:Verdana; font-size:20pt}
+h2 {text-align:right; color:#800000; font-family:Verdana; font-size:16pt}
+h3 {text-align:left; color:#0000FF; font-family:Impact; font-size:14pt}
+p {text-align:justify; font-weight:bold; color:#191970; font-family:Arial; font-size:12pt}
+body {background-image: url('fon9.jpg')}
+ul {list-style-image: url('spisok_1.gif')}
+ol {list-style-type: upper-roman}
+
+h1.main, h1.golub, h1.krasn, h1.zelen, h1.oranzhev{color:navy; font-family:Verdana; text-align:left; font-size:14pt}
+
+h1.main{
+	color:navy
+}
+
+h1.golub{color:blue}
+h1.krasn{color:red}
+h1.zelen{color:green}
+h1.oranzhev{color:orange}
+
+p.first, p.second, p.thrid, p.four, p.five{ font-family:Verdana; font-size:14pt}
+
+p.first{color:navy; text-align:center}
+p.second{color:blue; text-align:left}
+p.thrid{color:red; text-align:right}
+p.four{color:green; text-align:left}
+p.five{color:orange; text-align:center}
